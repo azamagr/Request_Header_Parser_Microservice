@@ -24,7 +24,7 @@ The project extracts information from request headers and returns details such a
 ## 📌 Project Objective
 
 Build a Request Header Parser Microservice similar to:
-https://request-header-parser-microservice.freecodecamp.rocks/
+[https://request-header-parser-microservice.freecodecamp.rocks/](https://request-header-parser-microservice.freecodecamp.rocks/)
 
 The API returns information from the incoming request headers in JSON format.
 
